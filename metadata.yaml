@@ -1,0 +1,30 @@
+_repo: The-Wreckers-of-Sable-Island_33714
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oxley, J. Macdonald (James Macdonald)
+    alias: Oxley, James M. (James Macdonald)
+    birthdate: 1855
+    deathdate: 1907
+    gutenberg_agent_id: '3223'
+    url: http://www.gutenberg.org/2009/agents/3223
+description: ''
+gutenberg_issued: '2010-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sable Island (N.S.) -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+title: The Wreckers of Sable Island
+url: http://www.gutenberg.org/ebooks/33714
